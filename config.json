@@ -1,0 +1,5 @@
+{
+    "token": "YOUR-BOT-TOKEN-GOES-HERE",
+    "socketApiToken": "YOUR-WEBSOCKET-API-TOKEN-GOES-HERE",
+    "channelID": "CHANNEL-ID-HERE"
+}
